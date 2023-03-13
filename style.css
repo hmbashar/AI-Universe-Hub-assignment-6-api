@@ -1,0 +1,27 @@
+.ai-univer-button {
+    background-color: #FEF7F7;
+    color: #EB5757;
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 15px;
+    line-height: 3px;
+}
+
+.ai-modal-column-left {
+    background: rgba(235, 87, 87, 0.05);
+border: 1px solid #EB5757;
+border-radius: 16px;
+}
+
+.ai-universe-price-single {
+    background-color: #fff;
+}
+.ai-universe-module-img > div {
+    top:10px;
+    right:10px;
+}
+
+.ai-modal-column-right {
+    border:1px solid #E7E7E7;
+    border-radius: 16px;
+}
